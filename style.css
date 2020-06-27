@@ -1,0 +1,88 @@
+.body{
+    background-color:white;
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18904931.jpg);
+   
+}
+
+.main{
+    
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    border: 1px solid #1a1a00;
+    width: 200px;
+    margin: auto;
+    background-color:black;
+    border-radius: 10px;
+    height: 338px;
+    margin-top: 10px;
+    
+    
+
+    
+}
+.result{
+    margin: 2px;
+    width:96% ;
+    height: 75px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+.clear,.back{
+    width: 90px;
+    margin-top: 2px;
+    background-color: #1a8cff;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: rgba(236, 236, 236, 0.952);
+    box-shadow: 0px 1px 1px 1px black; 
+    font-weight: bolder;
+    height: 40px;
+    margin: 3px;
+}
+.btv{
+    height: 50px;
+    border-style: inset;
+    font-weight: bolder;
+    background-color:rgb(246, 246, 246);
+    width: 40px;
+    margin-top: 3px;
+    margin-left: 4px;
+    margin-right: 1px;
+    border: 2px solid black;
+    border-style: groove;
+    border-radius: 10px;
+    box-shadow: rgba(236, 236, 236, 0.952);
+
+
+    color: black;
+}
+.last{
+    margin-left: 3.5px;
+    height:47px ;
+    font-weight: bolder;
+    background-color: rgb(246, 246, 246);
+    margin-top :1px ;
+    width: 41px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: rgba(236, 236, 236, 0.952);
+    box-shadow: 0px 1px 1px 1px black;
+    color: black;
+}
+#opr{
+    background-color: #ffad33;
+}
+.name{
+    text-align: center;
+    background-color:black  ;
+    font-style: italic,bold;
+    font-family: algerian;
+    color: white;
+
+}
+h1{
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
